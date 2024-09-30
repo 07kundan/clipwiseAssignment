@@ -25,6 +25,6 @@ This project is a replica of a given website. Due to time constraints, I've focu
 
    ```bash
    git clone <https://github.com/07kundan/clipwiseAssignment>
-   cd <project-directory>
+   cd clipwiseAssignment
 
    ```
