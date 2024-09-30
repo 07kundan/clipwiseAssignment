@@ -1,6 +1,6 @@
 import React from "react";
-import Image from "../../public/bgImage.png";
-import Content from "../../public/image.png";
+import Image from "/bgImage.png";
+import Content from "/image.png";
 
 function Page3() {
   return (

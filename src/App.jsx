@@ -9,6 +9,7 @@ function App() {
         <Page1 />
         <Page2 />
         <Page3 />
+        <footer className="h-32 w-full bg-[#0A294DCC]"></footer>
       </div>
     </>
   );

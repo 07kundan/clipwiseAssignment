@@ -1,8 +1,30 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Link
 
-Currently, two official plugins are available:
+[https://clipwise-assi.netlify.app/](https://clipwise-assi.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+This project is a replica of a given website. Due to time constraints, I've focused on replicating the core layout and functionality. I also added hover effects and a carousel for enhanced interactivity.
+
+## Features
+
+- **Replicated Layout**: The core structure of the website has been successfully recreated.
+- **Hover Effects**: Interactive hover effects have been applied to enhance user experience.
+- **Carousel**: A carousel has been implemented for content/image scrolling.
+
+## Technologies Used
+
+- React
+- TailwindCss
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone <https://github.com/07kundan/clipwiseAssignment>
+   cd <project-directory>
+
+   ```

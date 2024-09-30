@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import Image from "../../public/image.png";
-import bgImage from "../../public/bgImage.png";
-import navIcon from "../../public/navicon.png";
-import daimond from "../../public/daimond.png";
-import mouse from "../../public/mouse.png";
+import Image from "/image.png";
+import bgImage from "/bgImage.png";
+import navIcon from "/navicon.png";
+import daimond from "/daimond.png";
+import mouse from "/mouse.png";
 
 const content = [
   {
